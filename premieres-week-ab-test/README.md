@@ -33,7 +33,7 @@ premieres-week-ab-test/
 │
 ├── presentation/
 │   └── Premieres_AB_Test.pdf    ← PDF-презентация
-│
+│   └── Premieres_AB_Test.pptx   ← PP-презентация
 ├── app.py                       ← Streamlit-дэшборд
 ├── requirements.txt
 └── README.md
@@ -78,6 +78,7 @@ streamlit run app.py
 Data_Science | Февраль 2026
 
 ### 📄 Лицензия 
+
 
 
 
