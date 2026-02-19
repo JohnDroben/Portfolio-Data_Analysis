@@ -1,9 +1,8 @@
 # 🎬 Премьеры недели: A/B-тест главного экрана
 
 Презентация проекта: [Premieres_AB_Test.pptx](premieres-week-ab-test/presentation/Premieres_AB_Test.pptx)
-Презентация проекта: [Premieres_AB_Test.pdf](premieres-week-ab-test/presentation/Premieres_AB_Test.pdf);
 
-)
+Презентация проекта: [Premieres_AB_Test.pdf](premieres-week-ab-test/presentation/Premieres_AB_Test.pdf);
 
 ## Описание проекта
 
@@ -79,6 +78,7 @@ streamlit run app.py
 Data_Science | Февраль 2026
 
 ### 📄 Лицензия 
+
 
 
 
